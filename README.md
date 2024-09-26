@@ -37,3 +37,8 @@ There are a number of books used as reference material, including:
 ### Installing Jupyter Notebook
 
 ### Useful Links
+Here are some useful Python-related links (thanks to my colleague [James McDermott](https://github.com/jmmcd) for the pointers).
+
+* [Whirlwind Tour of Python, by Jake VanderPlas](https://jakevdp.github.io/WhirlwindTourOfPython/)
+* [Think Python by Allen B. Downey](https://greenteapress.com/wp/think-python-2e/)
+* [Think Complexity by Allen B. Downey](https://greenteapress.com/wp/think-complexity-2e/)

@@ -22,8 +22,6 @@ There are a number of books used as reference material, including:
 
 * ["Python for Data Analysis, 3rd Edition"](https://github.com/wesm/pydata-book) by Wes McKinney, published by O'Reilly Media.
 
-### Software Used
-
 ### Lecture Content and Resources
 
 #### Part I: Introduction to Python and NumPy
@@ -31,11 +29,15 @@ There are a number of books used as reference material, including:
 * [Week 1: Introduction to Python](https://colab.research.google.com/drive/1yLJw8c5D30IStzEzltmft8dlnsl3UZ0T?usp=sharing)
 * [Week 2: Exploring arrays using NumPy](https://colab.research.google.com/drive/1QtZxXR1Yh3VbjXMDzEtssJX9HoBY-epF)
 * [Week 3: Writing Functions in Python](https://colab.research.google.com/drive/1ogyjorRUpyAYIEwHu9zegRuWYbmBunn_?usp=sharing)
+* [Week 4: Lambda Functions in Python](https://colab.research.google.com/drive/1A-MGxZRLQM9696mmnCDywmC5dHeSaccG?usp=sharing)
+* [Week 5: Plotting and Visualisation](https://colab.research.google.com/drive/1yeCfgBopCJdjtoJqN9vB-2EQjF-7VyWL?usp=sharing)
 
 
 ### Google colab
 
 ### Installing Jupyter Notebook
+
+### Spyder
 
 ### Useful Links
 Here are some useful Python-related links (thanks to my colleague [James McDermott](https://github.com/jmmcd) for the pointers).

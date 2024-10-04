@@ -33,6 +33,11 @@ There are a number of books used as reference material, including:
 * [Week 5: Plotting and Visualisation](https://colab.research.google.com/drive/1yeCfgBopCJdjtoJqN9vB-2EQjF-7VyWL?usp=sharing)
 
 
+#### Part II: Modelling using SciPy and NumPy
+
+* [Week 6: Introduction to Modelling using Stocks and Flows](https://colab.research.google.com/drive/1O0YOcW0AikQnIAbYiUsoEWQF490pYsq9?usp=sharing)
+
+
 ### Google colab
 
 ### Installing Jupyter Notebook

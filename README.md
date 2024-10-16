@@ -17,7 +17,6 @@ There are three main parts to this course:
 
 * Finally, using [pandas](https://pandas.pydata.org/docs/index.html), we introduce exploratory data analysis for a variety of data sets, and also explore a range of statistical methods including correlation and linear regression modelling.
 
-
 There are a number of books used as reference material, including:
 
 * ["Python for Data Analysis, 3rd Edition"](https://github.com/wesm/pydata-book) by Wes McKinney, published by O'Reilly Media.
@@ -36,13 +35,31 @@ There are a number of books used as reference material, including:
 #### Part II: Modelling using SciPy and NumPy
 
 * [Week 6: Introduction to Modelling using Stocks and Flows](https://colab.research.google.com/drive/1O0YOcW0AikQnIAbYiUsoEWQF490pYsq9?usp=sharing)
+* [Week 7: Mathematical Modelling with Python's odeint function](https://colab.research.google.com/drive/19d3RuwV4AtCMUotO-8XTWwOCSwGEH-Mv?usp=sharing)
+* [Week 8: TBD]()
 
 
-### Google colab
+#### Part III: Data Science using pandas
 
-### Installing Jupyter Notebook
+* [Week 9: Series and DataFrame objects in pandas](https://colab.research.google.com/drive/1UPn2Me1D1Qs-qe4TnnntGJEdUNzl9u12?usp=sharing)
 
-### Spyder
+* [Week 10: Grouping and Aggregating Data](https://colab.research.google.com/drive/1VkY7FZ3Qt2_F2vFJM2UFtH25XwVk59Vr?usp=sharing)
+
+* [Week 11: Introduction to Linear Regression](https://colab.research.google.com/drive/1l_ulRq69EIHicGfX3J9uQ4A-32PXy35Z?usp=sharing)
+
+
+
+### Software required
+You can run all the course code with a [google colab account](https://colab.google). You may want to install code locally on your machine, and to do this, you can install Miniconda.
+
+####  Installing Miniconda
+
+For windows, you can download Miniconda from [here](https://docs.anaconda.com/miniconda/)
+
+When Minconda is installed, you can then install [Jupyter Notebook](https://www.codecademy.com/article/setting-up-jupyter-notebook) on your machine.
+
+####  Spyder
+Spyder is a nice IDE for Python, see the [following link](https://docs.spyder-ide.org/current/installation.html)
 
 ### Useful Links
 Here are some useful Python-related links (thanks to my colleague [James McDermott](https://github.com/jmmcd) for the pointers).

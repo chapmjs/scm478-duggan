@@ -36,7 +36,7 @@ There are a number of books used as reference material, including:
 
 * [Week 6: Introduction to Modelling using Stocks and Flows](https://colab.research.google.com/drive/1O0YOcW0AikQnIAbYiUsoEWQF490pYsq9?usp=sharing)
 * [Week 7: Mathematical Modelling with Python's odeint function](https://colab.research.google.com/drive/19d3RuwV4AtCMUotO-8XTWwOCSwGEH-Mv?usp=sharing)
-* [Week 8: TBD]()
+* [Week 8: Modelling Case Studies](https://colab.research.google.com/drive/1x6oKDD5sWBvOk4BFAbM01f1U_oOdrz51?usp=sharing)
 
 
 #### Part III: Data Science using pandas

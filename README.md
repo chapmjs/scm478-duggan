@@ -1,13 +1,5 @@
-# CT248
-Repo to support updated module Introduction to Modelling (CT248), which now uses Python instead of MATLAB.
-
-My main expertise to date is in using R for data science, so I'm looking forward to the opportunity to learning some new skills, and also comparing and contrasting how you can achieve the similar outcomes with both languages. 
-
-Here are some of my R resources:
-
-* [Exploring Operations Research with R](https://github.com/JimDuggan/explore_or), my 2024 textbook (CRC Press) on R, and its application to the field of operations research.
-
-* [System Dynamics Modelling with R](https://github.com/JimDuggan/SDMR), my 2016 textbook (Springer) on how you can combine system dynamics modelling with R.
+# SCM 478
+Repo to support updated module Introduction to Modelling (SCMS 478), which now uses Python instead of MATLAB.
 
 There are three main parts to this course:
 
